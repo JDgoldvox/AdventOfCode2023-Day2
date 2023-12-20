@@ -1,0 +1,4 @@
+C:/Users/voxca/Documents/uni work/AdventOfCode/Day 2/Cube Conundrum/out/build/x64-debug/CMakeFiles/part1.dir
+C:/Users/voxca/Documents/uni work/AdventOfCode/Day 2/Cube Conundrum/out/build/x64-debug/CMakeFiles/part2.dir
+C:/Users/voxca/Documents/uni work/AdventOfCode/Day 2/Cube Conundrum/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/voxca/Documents/uni work/AdventOfCode/Day 2/Cube Conundrum/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
